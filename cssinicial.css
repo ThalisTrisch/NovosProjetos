@@ -1,0 +1,129 @@
+body{
+    margin: 0px;
+
+}.body{
+    background: url(https://i2.wp.com/blog.visme.co/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-02.jpg);
+    min-height: 200vh;
+    position: fixed;
+
+}
+.barra{
+    width:100%;
+    height:4px;
+    background-color: rgb(46, 46, 46);
+    margin-bottom: 0px;
+    vertical-align: bottom;
+}.tabela0{
+    width:80%;
+    height:100%;
+
+}.tabela10{
+    width:100%;
+    height:100%;
+
+}.sobre{
+    width:140px;
+    height:60px;
+    font-size:22px;
+    border:solid;
+    border-radius: 35px;
+    border-width: 2px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border-color:rgb(184, 184, 184);
+    background: transparent;
+    color: rgb(184, 184, 184);
+    transform: color;
+    margin-left: 5%;
+}.titulomaior{
+    font-size: 50px;
+    height: 55px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    color: rgb(184, 184, 184);
+    margin-left: 40%;
+}.titulom{
+    font-size: 40px;
+    font-family:"montserrat";
+    margin-top: 20px;
+    color: rgb(46, 46, 46);
+}
+:hover.sobre{
+    transition-duration: 0.6s;
+    color: rgb(155, 255, 242);
+    border-color: rgb(155, 255, 242);
+    background: rgba(55, 208, 235, 0.644);
+    transform: scale(1.06);
+}.topo{
+    width:100%;
+    height:110px;
+    background-color:rgb(82, 104, 112);
+    border-bottom-width: 8px;
+}.div2{
+    width:100%;
+    height:405px;
+    margin:0px;
+}
+.divs{
+    width:20%;
+}.divisao1{
+    width: 10%;
+}.divisao2{
+    width: 10%;
+}.link{
+    width:200px;
+    height:80px;
+    font-size:25px;
+    border:solid;
+    border-radius: 50px;
+    border-width: 3px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border-color:rgb(30, 65, 88);
+    background: transparent;
+    color: rgb(29, 36, 75);
+    transform: color;
+    margin-left: 5%;
+}
+:hover.link{
+    transition-duration: 0.6s;
+    color: rgb(185, 255, 255);
+    border-color: rgba(16, 114, 99, 0.637);
+    background: rgba(48, 173, 223, 0.644);
+    transform: scale(1.06);
+}#tabelass{
+    margin-top: 15%;
+    margin-left: 13%;
+}.logo{
+    height:30%;
+    width: 30%;
+    border-width: 2px;
+    border-color:rgb(39, 39, 39);
+    border-style: solid;
+    border-radius: 20px;
+    float: right;
+}.newbtn{
+    width:100px;
+    height:40px;
+    font-size:15px;
+    border:solid;
+    border-radius: 50px;
+    border-width: 3px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border-color:rgb(0, 0, 0);
+    background: transparent;
+    color: rgb(0, 0, 0);
+    transform: color;
+    font-family: "montserrat";
+    position: right;
+    margin-left: 15px;
+}
+:hover.newbtn{
+    transition-duration: 0.3s;
+    color: rgb(185, 255, 255);
+    border-color: rgba(201, 255, 247, 0.822);
+    background: rgba(84, 203, 250, 0.418);
+    transform: scale(1.10);
+}.tabelinhas{
+    margin-bottom: 6%;
+    min-height: 80%;
+}
